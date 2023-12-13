@@ -1,0 +1,30 @@
+2023-12-13T19:29:03.194+05:30  INFO 7272 --- [main] ockerLogOutsideContainerApplicationTests : Starting DockerLogOutsideContainerApplicationTests using Java 17.0.5 with PID 7272 (started by insmelm in C:\docker_compose_workspace\docker-log-outside-container)
+2023-12-13T19:29:03.200+05:30  INFO 7272 --- [main] ockerLogOutsideContainerApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-12-13T19:29:05.914+05:30  INFO 7272 --- [main] ockerLogOutsideContainerApplicationTests : Started DockerLogOutsideContainerApplicationTests in 3.416 seconds (process running for 6.088)
+2023-12-13T19:29:37.182+05:30  INFO 28380 --- [main] j.s.DockerLogOutsideContainerApplication : Starting DockerLogOutsideContainerApplication using Java 17.0.5 with PID 28380 (C:\docker_compose_workspace\docker-log-outside-container\target\classes started by insmelm in C:\docker_compose_workspace\docker-log-outside-container)
+2023-12-13T19:29:37.188+05:30  INFO 28380 --- [main] j.s.DockerLogOutsideContainerApplication : No active profile set, falling back to 1 default profile: "default"
+2023-12-13T19:29:38.839+05:30  INFO 28380 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2023-12-13T19:29:38.867+05:30  INFO 28380 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-13T19:29:38.868+05:30  INFO 28380 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-13T19:29:39.004+05:30  INFO 28380 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-13T19:29:39.005+05:30  INFO 28380 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1674 ms
+2023-12-13T19:29:39.669+05:30  INFO 28380 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2023-12-13T19:29:39.683+05:30  INFO 28380 --- [main] j.s.DockerLogOutsideContainerApplication : Started DockerLogOutsideContainerApplication in 3.284 seconds (process running for 4.625)
+2023-12-13T19:29:43.442+05:30  INFO 28380 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-13T19:29:43.443+05:30  INFO 28380 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-13T19:29:43.446+05:30  INFO 28380 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-13T19:31:01.889+05:30  INFO 28380 --- [RMI TCP Connection(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-13T19:31:11.157+05:30  INFO 8708 --- [main] j.s.DockerLogOutsideContainerApplication : Starting DockerLogOutsideContainerApplication using Java 17.0.5 with PID 8708 (C:\docker_compose_workspace\docker-log-outside-container\target\classes started by insmelm in C:\docker_compose_workspace\docker-log-outside-container)
+2023-12-13T19:31:11.162+05:30  INFO 8708 --- [main] j.s.DockerLogOutsideContainerApplication : No active profile set, falling back to 1 default profile: "default"
+2023-12-13T19:31:13.181+05:30  INFO 8708 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2023-12-13T19:31:13.204+05:30  INFO 8708 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-13T19:31:13.205+05:30  INFO 8708 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-13T19:31:13.321+05:30  INFO 8708 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-13T19:31:13.322+05:30  INFO 8708 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2036 ms
+2023-12-13T19:31:13.980+05:30  INFO 8708 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2023-12-13T19:31:13.997+05:30  INFO 8708 --- [main] j.s.DockerLogOutsideContainerApplication : Started DockerLogOutsideContainerApplication in 3.592 seconds (process running for 5.216)
+2023-12-13T19:31:18.142+05:30  INFO 8708 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-13T19:31:18.143+05:30  INFO 8708 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-13T19:31:18.147+05:30  INFO 8708 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-12-13T19:31:18.231+05:30  INFO 8708 --- [http-nio-8080-exec-1] n.j.s.controller.UserController          : The time now is 2023-12-13T19:31:18.231783
+2023-12-13T20:34:07.052+05:30  INFO 8708 --- [RMI TCP Connection(10)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
